@@ -226,7 +226,6 @@ Third-party projects and libraries:
 - [Bluepad32](https://github.com/ricardoquesada/bluepad32)
 - CFServo / SCServo Arduino library from the Waveshare / CFServo package
 
-If you are the original author of `eleTorquesegyo.ino` and want attribution updated or the file removed, please open an issue.
 
 ## License Notice
 
